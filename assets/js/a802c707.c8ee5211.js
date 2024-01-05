@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_behave_graph_website=self.webpackChunk_behave_graph_website||[]).push([[686],{1992:e=>{e.exports=JSON.parse('{"permalink":"/behave-graph/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
